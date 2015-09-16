@@ -1,0 +1,24 @@
+{
+  "name": "vi-mock",
+  "version": "1.0.0",
+  "description": "Data generator tool based on yod-mock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CocaCola183/vi-mock.git"
+  },
+  "author": "blackwhite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CocaCola183/vi-mock/issues"
+  },
+  "homepage": "https://github.com/CocaCola183/vi-mock#readme",
+  "dependencies": {
+    "assert-plus": "^0.1.5",
+    "enum": "^2.1.0",
+    "yod-mock": "^0.3.0"
+  }
+}
